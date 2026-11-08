@@ -1,0 +1,4 @@
+interface:
+  display_name: "UoA Student Assistant"
+  short_description: "整合奥大 Canvas、CodeRunner、SSO 和图书馆，规划每周学习与学期选课"
+  default_prompt: "使用 $uoa-student-assistant，整理这周的作业、课件、编程练习与课表，给我一份带出处的学习计划。"

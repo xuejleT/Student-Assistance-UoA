@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "language": "zh-CN",
+  "timezone": "Pacific/Auckland",
+  "programme": null,
+  "major": null,
+  "regulations_year": null,
+  "target_year": null,
+  "target_term": null,
+  "courses": [],
+  "study_windows": [],
+  "unavailable_times": [],
+  "gpa_purpose": null,
+  "target_gpa": null,
+  "preferred_browser": null,
+  "data_retention": "session_only",
+  "reminders_enabled": false,
+  "reminder_channel": null,
+  "reminder_lead_minutes": null
+}

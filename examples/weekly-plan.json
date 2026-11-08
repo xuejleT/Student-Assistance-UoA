@@ -1,0 +1,43 @@
+{
+  "start_date": "2026-11-09",
+  "as_of": "2026-11-09T08:00:00+13:00",
+  "sources": [
+    {"source": "Canvas", "status": "checked", "checked_at": "2026-11-09T08:00:00+13:00", "detail": "Fictional course material"},
+    {"source": "SSO", "status": "checked", "checked_at": "2026-11-09T08:00:00+13:00", "detail": "Fictional timetable"}
+  ],
+  "items": [
+    {
+      "course": "SAMPLE 100",
+      "year": 2026,
+      "term": "Semester Two",
+      "kind": "assignment",
+      "status": "pending",
+      "title": "Graph algorithms review",
+      "source": "Canvas",
+      "source_id": "assignment:21",
+      "url": "https://example.invalid/courses/sample/assignments/21",
+      "checked_at": "2026-11-09T08:00:00+13:00",
+      "due": "2026-11-11T17:00:00+13:00",
+      "personal_due": "2026-11-12T17:00:00+13:00",
+      "closes": "2026-11-13T17:00:00+13:00",
+      "next_step": "Trace a graph search on a five-node example and write three self-test questions.",
+      "minutes": 40
+    },
+    {
+      "course": "SAMPLE 100",
+      "year": 2026,
+      "term": "Semester Two",
+      "kind": "class",
+      "title": "Graph algorithms tutorial",
+      "source": "SSO",
+      "source_id": "tutorial:2026-11-10",
+      "url": "https://example.invalid/timetable/sample",
+      "checked_at": "2026-11-09T08:00:00+13:00",
+      "start": "2026-11-10T17:00:00+13:00",
+      "end": "2026-11-10T18:00:00+13:00"
+    }
+  ],
+  "availability": [
+    {"start": "2026-11-10T17:00:00+13:00", "end": "2026-11-10T19:00:00+13:00"}
+  ]
+}
